@@ -1,0 +1,6 @@
+[submodule "User/Libraries/libetk"]
+	path = User/Libraries/libetk
+	url = https://github.com/matlshen/libetk.git
+[submodule "User/Libraries/etl"]
+	path = User/Libraries/etl
+	url = https://github.com/ETLCPP/etl.git
