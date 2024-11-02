@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "projectName": "${workspaceFolderBasename}",
+    "configurations": [
+        {
+            "name": "JLink Debug",
+            "cwd": "${workspaceRoot}",
+            "executable": "${workspaceFolder}/build/${workspaceFolderBasename}.elf",
+            "request": "launch",
+            "type": "cortex-debug",
+            "servertype": "jlink",
+            "device": "STM32F429ZI",
+            "interface": "swd"
+        }
+    ]
+}

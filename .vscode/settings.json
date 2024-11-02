@@ -1,0 +1,4 @@
+{
+    "cortex-debug.gdbPath": "/opt/homebrew/bin/arm-none-eabi-gdb",
+    "cortex-debug.JLinkGDBServerPath": "/usr/local/bin/JLinkGDBServer"
+}
